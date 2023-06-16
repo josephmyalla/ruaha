@@ -1,0 +1,38 @@
+Arguments: 
+  /home/joseph/.nvm/versions/node/v16.19.0/bin/node /home/joseph/.nvm/versions/node/v16.19.0/bin/yarn add -D tailwindcss
+
+PATH: 
+  /home/joseph/anaconda3/bin:/home/joseph/anaconda3/condabin:/home/joseph/.nvm/versions/node/v16.19.0/bin:/home/joseph/usr/local/coding/python/web-auto:/home/joseph/.rvm/gems/ruby-3.0.0/bin:/home/joseph/.rvm/gems/ruby-3.0.0@global/bin:/home/joseph/.rvm/rubies/ruby-3.0.0/bin:/home/joseph/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/joseph/.dotnet/tools:/home/joseph/.rvm/bin:/tools:/platform-tools:/home/joseph/.rvm/bin:/usr/lib/jvm/java-17-openjdk-amd64/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.19.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+
+npm manifest: 
+  {
+    "name": "ruaha",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
