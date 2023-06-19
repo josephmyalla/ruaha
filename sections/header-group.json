@@ -37,7 +37,7 @@
       }
     },
     "wanyalu":{
-      "type":"header",
+      "type":"wanyalu",
       "settings":[]
     }
   },
