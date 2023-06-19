@@ -35,6 +35,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "wanyalu":{
+      "type":"header",
+      "settings":[]
     }
   },
   "order": [
